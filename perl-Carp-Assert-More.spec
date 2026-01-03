@@ -6,14 +6,14 @@
 %define		pnam	Assert-More
 Summary:	Carp::Assert::More - convenience wrappers around Carp::Assert
 Name:		perl-Carp-Assert-More
-Version:	1.20
+Version:	2.9.0
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/P/PE/PETDANCE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	e056db5883a4ec7cdd62443046aa7e0a
-URL:		http://search.cpan.org/dist/Carp-Assert-More/
+Source0:	https://search.cpan.org/CPAN/authors/id/P/PE/PETDANCE/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	546fd2be2e7eb0730a18fb4344ff3560
+URL:		https://search.cpan.org/dist/Carp-Assert-More/
 BuildRequires:	perl-devel >= 1:5.8.0
 %if %{with tests}
 BuildRequires:	perl-Pod-Tests >= 0.18
