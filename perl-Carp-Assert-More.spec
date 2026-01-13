@@ -7,7 +7,7 @@
 Summary:	Carp::Assert::More - convenience wrappers around Carp::Assert
 Name:		perl-Carp-Assert-More
 Version:	2.9.0
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
